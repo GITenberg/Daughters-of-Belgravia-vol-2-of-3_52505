@@ -1,5 +1,8 @@
 _repo: Daughters-of-Belgravia-vol-2-of-3_52505
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52505-h/images/back-cover.jpg
 creator:
   author:
     agent_name: Fraser, Alexander, Mrs.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46741
     wikipedia: https://en.wikipedia.org/wiki/Mrs._Alexander_Fraser
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52505#Daughters-of-Belgravia-vol-2-of-3
 gutenberg_issued: '2016-07-05'
 gutenberg_type: Text
 identifiers:
