@@ -1,0 +1,28 @@
+_repo: Daughters-of-Belgravia-vol-2-of-3_52505
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fraser, Alexander, Mrs.
+    aliases:
+    - Fraser, Mrs. Alexander
+    - Small, Caroline Rosetta
+    birthdate: 1829
+    deathdate: 1908
+    gutenberg_agent_id: '46741'
+    url: http://www.gutenberg.org/2009/agents/46741
+    wikipedia: https://en.wikipedia.org/wiki/Mrs._Alexander_Fraser
+description: ''
+gutenberg_issued: '2016-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Daughters of Belgravia; vol. 2 of 3
+url: http://www.gutenberg.org/ebooks/52505
